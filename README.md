@@ -1,6 +1,7 @@
 # Lightcore: A lightweight flexible blockchain framework.
 
-**Note**: This a link repositor, please refer [Lightcore-project/Lightcore](https://github.com/Lightcore-project/Lightcore) to know more about this project.
+**Note**: This a link repositor, please refer [Lightcore-project/Lightcore](https://github.com/Lightcore-project/Lightcore) 
+to know more about `Lightcore`.
 
 ![](img/lightcore.jpg)
 
